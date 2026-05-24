@@ -1,4 +1,12 @@
+<div align="center">
+  
+  <img width="544" height="361" alt="images (4)" src="https://github.com/user-attachments/assets/955e8c33-d619-4442-83aa-6152183c3197" />
+
+
+
 # Data Analysis
+  
+</div>
 
 Summary of data analysis
 
